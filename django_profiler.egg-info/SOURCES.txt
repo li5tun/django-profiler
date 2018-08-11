@@ -5,6 +5,7 @@ tox.ini
 django_profiler/__init__.py
 django_profiler/admin.py
 django_profiler/apps.py
+django_profiler/middleware.py
 django_profiler/models.py
 django_profiler/tests.py
 django_profiler/views.py
