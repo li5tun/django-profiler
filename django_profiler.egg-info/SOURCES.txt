@@ -1,0 +1,15 @@
+MANIFEST.in
+README.rst
+setup.py
+tox.ini
+django_profiler/__init__.py
+django_profiler/admin.py
+django_profiler/apps.py
+django_profiler/models.py
+django_profiler/tests.py
+django_profiler/views.py
+django_profiler.egg-info/PKG-INFO
+django_profiler.egg-info/SOURCES.txt
+django_profiler.egg-info/dependency_links.txt
+django_profiler.egg-info/requires.txt
+django_profiler.egg-info/top_level.txt

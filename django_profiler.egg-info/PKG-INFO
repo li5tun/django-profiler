@@ -1,0 +1,23 @@
+Metadata-Version: 1.0
+Name: django-profiler
+Version: 0.1
+Summary: use line_profiler to profile your views
+Home-page: https://github.com/li5tun/django-profiler/
+Author: Matt
+Author-email: li5tun@gmail.com
+License: UNKNOWN
+Description: ================
+        Django Profiler
+        ================
+        
+        Django profiler based line_profiler to save profile info into DB
+        
+        Quick start
+        ____________
+        
+        
+        1. Add `django_profiler` to your INSTALLED_APPS
+        
+        2. Add
+        
+Platform: UNKNOWN
